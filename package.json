@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "i wanna learn node and react",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knowyourenemy/reacttest.git"
+  },
+  "author": "Aaditya Patwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knowyourenemy/reacttest/issues"
+  },
+  "homepage": "https://github.com/knowyourenemy/reacttest#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
